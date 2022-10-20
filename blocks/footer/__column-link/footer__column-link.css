@@ -6,4 +6,9 @@
   font-weight: normal;
   display: flex;
   align-items: center;
+  transition: .2s;
+}
+
+.footer__column-link:hover {
+  opacity: .7;
 }
